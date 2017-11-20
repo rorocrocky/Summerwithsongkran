@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: 13409961714be1748b194203ecb746b8
+timeCreated: 1511206867
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: almofada
+    100002: almofada_001
+    100004: caixa
+    100006: caixa_001
+    100008: caixa_002
+    100010: cama
+    100012: candeeiro
+    100014: candeeiro_001
+    100016: candeeiro_tecto
+    100018: chao
+    100020: cobertor
+    100022: cobertor_001
+    100024: cobertor_002
+    100026: colcha
+    100028: colchao
+    100030: comoda
+    100032: cortina
+    100034: cortina_001
+    100036: Empty
+    100038: espelho
+    100040: guarda_fatos
+    100042: janela
+    100044: janela_001
+    100046: janela_vidro
+    100048: janela_vidro_001
+    100050: livro
+    100052: mesinha
+    100054: mesinha_001
+    100056: parede_branca
+    100058: parede_cor
+    100060: passepartout
+    100062: pedras
+    100064: plantas
+    100066: prato
+    100068: quadro
+    100070: quadro_001
+    100072: quadro_002
+    100074: //RootNode
+    100076: tapete
+    100078: tapete_001
+    100080: tapete_fio
+    100082: tapete_fio_001
+    100084: tapete_fio_002
+    100086: tapete_fio_003
+    100088: tapete_fio_004
+    100090: varao
+    100092: varao_001
+    100094: vazo
+    100096: vazo_001
+    400000: almofada
+    400002: almofada_001
+    400004: caixa
+    400006: caixa_001
+    400008: caixa_002
+    400010: cama
+    400012: candeeiro
+    400014: candeeiro_001
+    400016: candeeiro_tecto
+    400018: chao
+    400020: cobertor
+    400022: cobertor_001
+    400024: cobertor_002
+    400026: colcha
+    400028: colchao
+    400030: comoda
+    400032: cortina
+    400034: cortina_001
+    400036: Empty
+    400038: espelho
+    400040: guarda_fatos
+    400042: janela
+    400044: janela_001
+    400046: janela_vidro
+    400048: janela_vidro_001
+    400050: livro
+    400052: mesinha
+    400054: mesinha_001
+    400056: parede_branca
+    400058: parede_cor
+    400060: passepartout
+    400062: pedras
+    400064: plantas
+    400066: prato
+    400068: quadro
+    400070: quadro_001
+    400072: quadro_002
+    400074: //RootNode
+    400076: tapete
+    400078: tapete_001
+    400080: tapete_fio
+    400082: tapete_fio_001
+    400084: tapete_fio_002
+    400086: tapete_fio_003
+    400088: tapete_fio_004
+    400090: varao
+    400092: varao_001
+    400094: vazo
+    400096: vazo_001
+    2300000: almofada
+    2300002: almofada_001
+    2300004: caixa
+    2300006: caixa_001
+    2300008: caixa_002
+    2300010: cama
+    2300012: candeeiro
+    2300014: candeeiro_001
+    2300016: candeeiro_tecto
+    2300018: chao
+    2300020: cobertor
+    2300022: cobertor_001
+    2300024: cobertor_002
+    2300026: colcha
+    2300028: colchao
+    2300030: comoda
+    2300032: cortina
+    2300034: cortina_001
+    2300036: espelho
+    2300038: guarda_fatos
+    2300040: janela
+    2300042: janela_001
+    2300044: janela_vidro
+    2300046: janela_vidro_001
+    2300048: livro
+    2300050: mesinha
+    2300052: mesinha_001
+    2300054: parede_branca
+    2300056: parede_cor
+    2300058: passepartout
+    2300060: pedras
+    2300062: plantas
+    2300064: prato
+    2300066: quadro
+    2300068: quadro_001
+    2300070: quadro_002
+    2300072: tapete
+    2300074: tapete_001
+    2300076: tapete_fio
+    2300078: tapete_fio_001
+    2300080: tapete_fio_002
+    2300082: tapete_fio_003
+    2300084: tapete_fio_004
+    2300086: varao
+    2300088: varao_001
+    2300090: vazo
+    2300092: vazo_001
+    3300000: almofada
+    3300002: almofada_001
+    3300004: caixa
+    3300006: caixa_001
+    3300008: caixa_002
+    3300010: cama
+    3300012: candeeiro
+    3300014: candeeiro_001
+    3300016: candeeiro_tecto
+    3300018: chao
+    3300020: cobertor
+    3300022: cobertor_001
+    3300024: cobertor_002
+    3300026: colcha
+    3300028: colchao
+    3300030: comoda
+    3300032: cortina
+    3300034: cortina_001
+    3300036: espelho
+    3300038: guarda_fatos
+    3300040: janela
+    3300042: janela_001
+    3300044: janela_vidro
+    3300046: janela_vidro_001
+    3300048: livro
+    3300050: mesinha
+    3300052: mesinha_001
+    3300054: parede_branca
+    3300056: parede_cor
+    3300058: passepartout
+    3300060: pedras
+    3300062: plantas
+    3300064: prato
+    3300066: quadro
+    3300068: quadro_001
+    3300070: quadro_002
+    3300072: tapete
+    3300074: tapete_001
+    3300076: tapete_fio
+    3300078: tapete_fio_001
+    3300080: tapete_fio_002
+    3300082: tapete_fio_003
+    3300084: tapete_fio_004
+    3300086: varao
+    3300088: varao_001
+    3300090: vazo
+    3300092: vazo_001
+    4300000: janela_vidro_001
+    4300002: janela_vidro
+    4300004: quadro_002
+    4300006: chao
+    4300008: plantas
+    4300010: pedras
+    4300012: tapete_fio
+    4300014: candeeiro_001
+    4300016: candeeiro
+    4300018: livro
+    4300020: cortina_001
+    4300022: colcha
+    4300024: prato
+    4300026: vazo_001
+    4300028: vazo
+    4300030: almofada_001
+    4300032: almofada
+    4300034: colchao
+    4300036: tapete_fio_004
+    4300038: tapete_fio_003
+    4300040: tapete_fio_002
+    4300042: tapete_fio_001
+    4300044: tapete_001
+    4300046: tapete
+    4300048: quadro_001
+    4300050: quadro
+    4300052: varao_001
+    4300054: varao
+    4300056: espelho
+    4300058: parede_cor
+    4300060: janela_001
+    4300062: janela
+    4300064: guarda_fatos
+    4300066: mesinha_001
+    4300068: comoda
+    4300070: mesinha
+    4300072: parede_branca
+    4300074: cama
+    4300076: cortina
+    4300078: candeeiro_tecto
+    4300080: passepartout
+    4300082: caixa_001
+    4300084: caixa_002
+    4300086: caixa
+    4300088: cobertor_001
+    4300090: cobertor_002
+    4300092: cobertor
+    6400000: almofada
+    6400002: almofada_001
+    6400004: caixa
+    6400006: caixa_001
+    6400008: caixa_002
+    6400010: cama
+    6400012: candeeiro
+    6400014: candeeiro_001
+    6400016: candeeiro_tecto
+    6400018: chao
+    6400020: cobertor
+    6400022: cobertor_001
+    6400024: cobertor_002
+    6400026: colcha
+    6400028: colchao
+    6400030: comoda
+    6400032: cortina
+    6400034: cortina_001
+    6400036: espelho
+    6400038: guarda_fatos
+    6400040: janela
+    6400042: janela_001
+    6400044: janela_vidro
+    6400046: janela_vidro_001
+    6400048: livro
+    6400050: mesinha
+    6400052: mesinha_001
+    6400054: parede_branca
+    6400056: parede_cor
+    6400058: passepartout
+    6400060: pedras
+    6400062: plantas
+    6400064: prato
+    6400066: quadro
+    6400068: quadro_001
+    6400070: quadro_002
+    6400072: tapete
+    6400074: tapete_001
+    6400076: tapete_fio
+    6400078: tapete_fio_001
+    6400080: tapete_fio_002
+    6400082: tapete_fio_003
+    6400084: tapete_fio_004
+    6400086: varao
+    6400088: varao_001
+    6400090: vazo
+    6400092: vazo_001
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminio
+    second: {fileID: 2100000, guid: 4c2835c6d0ef1f14f88161b63427eb5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: caixa1
+    second: {fileID: 2100000, guid: 005835461eeee274194d70b038a38f29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candeeira_plastico
+    second: {fileID: 2100000, guid: 173776e1a11275442918d6d5fc1f09c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candeeiro_lampada
+    second: {fileID: 2100000, guid: e381f8bd192ebfc418bca907b1e55e13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candeeiro_metal
+    second: {fileID: 2100000, guid: f8fb48dba9a93ad44b5a25bbf0b33048, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candeeiro_vidro
+    second: {fileID: 2100000, guid: a3fbc3b2140f9cc418dff0e6ec857e2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chao_madeira
+    second: {fileID: 2100000, guid: 176749c90993e8f408e9e1b096766a87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cobertor1
+    second: {fileID: 2100000, guid: 59e5558ca9ca91548b5c8258d0b08a30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cobertor2
+    second: {fileID: 2100000, guid: 6957c3f35fa39a841a6c6a81d8678c31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: colcha
+    second: {fileID: 2100000, guid: a4cd00e09c1c5da4e8a29b5d83977656, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cortina
+    second: {fileID: 2100000, guid: e65b93d15ced8bd4594885604b22b4a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: espelho
+    second: {fileID: 2100000, guid: 407a64b18b663614c8572da1b8a8abe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: janela_metal
+    second: {fileID: 2100000, guid: e7b5e1cb8cfc2c340bea039fc88e05ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: janela_vidro
+    second: {fileID: 2100000, guid: 6437d4f94d13dfd41afa599aeb44050c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: livro_capa
+    second: {fileID: 2100000, guid: a63a04d690491b340a1ae467303a2feb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: livro_folhas
+    second: {fileID: 2100000, guid: 274435b1f0b179342a35eb0f2b7c1a1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madeira_clara
+    second: {fileID: 2100000, guid: c291429fd4be96940b56e4193270178f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madeira_escura
+    second: {fileID: 2100000, guid: e10ab3c13e244e74b8442d24081b7ea3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: parede_branca
+    second: {fileID: 2100000, guid: d147c9b1e896d824595bcde900734a76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: parede_cor
+    second: {fileID: 2100000, guid: 80d9e8dcf7658344f905e8b4ce6917c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: passepartout-foto
+    second: {fileID: 2100000, guid: 55f8808c6ad524b40b29ac41388b11cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: passepartout-madeira
+    second: {fileID: 2100000, guid: 42070b1323a9da042844e4f1a2195b72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: passepartout-metal
+    second: {fileID: 2100000, guid: 0b021d970b235f440ba1a55f10a854a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: passepartout-vidro
+    second: {fileID: 2100000, guid: f4d91ddbb337e2e478ff7f7b5d187343, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pedras1
+    second: {fileID: 2100000, guid: 8787986557bf82c43b490da0ebd8f686, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pedras2
+    second: {fileID: 2100000, guid: fccdd568d277ca8498191c1ca858ffb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pedras3
+    second: {fileID: 2100000, guid: 90f76509ebe364a4c9a9c4cc8f3265be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plantas
+    second: {fileID: 2100000, guid: f8a393b7d3c02bc41a78c589dce1656e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: prato
+    second: {fileID: 2100000, guid: f64a38c9f8f14594d9ae4ae318d4e900, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: quadro_bbb
+    second: {fileID: 2100000, guid: e316721d6d267ce4c9d6bfef96f72669, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: quadro_elephants
+    second: {fileID: 2100000, guid: 2f95fb24947f56e4faa5f9dd62e83aff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: quadro_madeira
+    second: {fileID: 2100000, guid: f504e6e186488704a95ddf12962c8cbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: quadro_sintel
+    second: {fileID: 2100000, guid: b26b6433921099246aa338587efbfa2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tapete
+    second: {fileID: 2100000, guid: dc761343d2e52e648afed1efde8eed84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tapete2
+    second: {fileID: 2100000, guid: 3067490873b9d554dba56903aa2675db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tapete_fios
+    second: {fileID: 2100000, guid: 98deca13eafb38f4da97cf8875a25c2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tecido_cama_branco
+    second: {fileID: 2100000, guid: 56dbb0ccf731b3c41a01a9c695ece3a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: varao
+    second: {fileID: 2100000, guid: 7abf4ecf8a2150646aeb0143a2c107fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vazo
+    second: {fileID: 2100000, guid: bd5920ba34ba19242b8f612b18f30137, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
