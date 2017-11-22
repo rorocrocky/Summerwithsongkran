@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Yo/VRtest_selected/PQAssets/Query-Chan/Scenes/05_OperateQuery_Locomotion.unity
+- path: Assets/Rocky/Scene/menu.unity
   isLoaded: 1
   isActive: 1

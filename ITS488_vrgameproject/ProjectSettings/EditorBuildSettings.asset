@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Rocky/Scene/main.unity
-    guid: 331aacd6a91730a40bd658033369b16d
+    path: Assets/Rocky/Scene/splash.unity
+    guid: f8d5ba2cebf375a46afcace3dcaaef1f
   - enabled: 1
-    path: Assets/Yo/VRtest_selected/PQAssets/Query-Chan/Scenes/05_OperateQuery_Locomotion.unity
-    guid: 6b7e6611ae0024ce7ae030a9e38e4f1a
+    path: Assets/Rocky/Scene/menu.unity
+    guid: bc211c29d2fb4044e835caacd7b6e05e
+  - enabled: 1
+    path: Assets/Rocky/Scene/ingame.unity
+    guid: b77baf1687228bd4c8cf100ecc5a1919
