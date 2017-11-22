@@ -177,7 +177,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="AudioToolkit_FreeVersion">
- <HintPath>C:/Users/kea_s/Desktop/ITS488_vrgameproject/Assets/Yo/VRtest_selected/AudioToolkit/AudioToolkit/AudioToolkit_FreeVersion.dll</HintPath>
+ <HintPath>C:/Users/kea_s/Documents/GitHub/ITS488_vrgameproject/ITS488_vrgameproject/Assets/Yo/VRtest_selected/AudioToolkit/AudioToolkit/AudioToolkit_FreeVersion.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>C:/Users/kea_s/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@1.0.1/UnityEngine.Analytics.dll</HintPath>

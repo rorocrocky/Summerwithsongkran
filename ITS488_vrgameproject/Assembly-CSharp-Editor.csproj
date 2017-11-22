@@ -77,7 +77,7 @@
      <None Include="Assets\Yo\VRtest_selected\FibrumSDK\Fibrum\LensCorrection\LensCorrection.shader" />
      <None Include="Assets\Yo\VRtest_selected\PQAssets\Query-Chan\Shaders\PQ_TransBlue.shader" />
  <Reference Include="Assembly-UnityScript">
- <HintPath>C:/Users/kea_s/Desktop/ITS488_vrgameproject/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <HintPath>C:/Users/kea_s/Documents/GitHub/ITS488_vrgameproject/ITS488_vrgameproject/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -143,10 +143,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="AudioToolkit_FreeVersion">
- <HintPath>C:/Users/kea_s/Desktop/ITS488_vrgameproject/Assets/Yo/VRtest_selected/AudioToolkit/AudioToolkit/AudioToolkit_FreeVersion.dll</HintPath>
+ <HintPath>C:/Users/kea_s/Documents/GitHub/ITS488_vrgameproject/ITS488_vrgameproject/Assets/Yo/VRtest_selected/AudioToolkit/AudioToolkit/AudioToolkit_FreeVersion.dll</HintPath>
  </Reference>
  <Reference Include="AudioToolkit_FreeVersion_Editor">
- <HintPath>C:/Users/kea_s/Desktop/ITS488_vrgameproject/Assets/Yo/VRtest_selected/AudioToolkit/AudioToolkit/Editor/AudioToolkit_FreeVersion_Editor.dll</HintPath>
+ <HintPath>C:/Users/kea_s/Documents/GitHub/ITS488_vrgameproject/ITS488_vrgameproject/Assets/Yo/VRtest_selected/AudioToolkit/AudioToolkit/Editor/AudioToolkit_FreeVersion_Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Users/kea_s/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@1.0.7/Editor/UnityEditor.Advertisements.dll</HintPath>
